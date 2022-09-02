@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hi! I am Ved Kharat </title>
+    <title>Portfolio </title>
 </head>
 <body>
-    
+<h1>Hi I am Ved Kharat,learing coding under the guidence Tanay Pratap from Neog camp.Portfolio coming as soon as I learn about HTML and CSS.
+</h1>
 </body>
 </html>
