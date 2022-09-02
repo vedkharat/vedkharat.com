@@ -7,7 +7,7 @@
     <title>Portfolio </title>
 </head>
 <body>
-<h1>Hi I am Ved Kharat,learing coding under the guidence Tanay Pratap from Neog camp.Portfolio coming as soon as I learn about HTML and CSS.
+<h1>Hi I am Ved Kharat,learing coding under the guidence of Tanay Pratap from Neog camp.Portfolio coming as soon as I learn about HTML and CSS.
 </h1>
 </body>
 </html>
